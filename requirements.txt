@@ -7,3 +7,8 @@ termcolor
 torch
 torchmetrics
 torchvision
+datasets
+transformers
+Pillow
+matplotlib
+numpy
